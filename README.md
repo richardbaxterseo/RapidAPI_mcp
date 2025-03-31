@@ -1,6 +1,8 @@
 # RapidAPI MCP
 
 ``` bash
+uv add -r requirements.txt
+
 # install the server in Claude (and restart Claude manually)
 fastmcp install server.py
 
