@@ -1,4 +1,5 @@
 # RapidAPI MCP
+[![smithery badge](https://smithery.ai/badge/@SecurFi/rapidapi_mcp)](https://smithery.ai/server/@SecurFi/rapidapi_mcp)
 
 ``` bash
 uv add -r requirements.txt
